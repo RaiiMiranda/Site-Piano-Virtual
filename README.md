@@ -21,7 +21,3 @@
 </ul>
 
 <br>
-
-<p> <strong> ❖ Caso queira ver o preview do projeto, acesse o link abaixo: </strong> </p>
-
-👉 [Piano Virtual](https://raiimiranda.github.io/Site-Piano-Virtual)
