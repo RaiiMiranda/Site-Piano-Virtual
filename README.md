@@ -15,5 +15,6 @@
 <img src="imagens/github/img2.png" width="100%">
 <img src="imagens/github/img3.png" width="100%">
 
+<h4> Descrição </h4>
 <p> Um <strong>piano virtual</strong> simples, desenvolvido em 2022, que permite tocar notas diretamente do navegador. Não é o mais rápido do mundo, mas foi uma ótima forma de praticar PHP, HTML, CSS e JS. </p>
 <p> Planejo desenvolver uma nova versão do Piano Virtual, com otimizações em JavaScript e funcionalidades adicionais. </p>
